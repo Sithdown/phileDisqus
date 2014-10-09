@@ -32,7 +32,7 @@ In your theme add `{{ disqus_comments }}` wherever you want to display the comme
 
 ## Configuration
 
-In `config.php` you must set:
+In `plugins/sithdown/disqus/config.php` you must set:
 
 * `$config['disqus_id' => 'sithdown']` - your disqus ID.
 
