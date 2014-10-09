@@ -1,0 +1,21 @@
+{
+	"name": "sithdown/disqus",
+	"type": "phile-plugin",
+    "version": "1.0.0",
+    "license": "MIT",
+    "description": "Embeds Disqus comments to Phile.",
+    "homepage": "https://github.com/Sithdown/phileDisqus",
+    "keywords": ["cms","phile","disqus"],
+    "authors": [
+        {
+            "name": "Sithdown S.",
+            "email": "afdezmnez@gmail.com",
+            "homepage": "http://sithdown.es/",
+            "role": "Developer"
+        }
+    ],
+	"require": {
+        "phile-cms/phile": ">=1",
+        "phile-cms/plugin-installer-plugin": ">=1"
+	}
+}
