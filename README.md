@@ -34,7 +34,7 @@ In your theme add `{{ disqus_comments }}` wherever you want to display the comme
 
 In `config.php` you must set:
 
-* `$config[''disqus_id' => 'sithdown'']` - your disqus ID.
+* `$config['disqus_id' => 'sithdown']` - your disqus ID.
 
 ## License
 
