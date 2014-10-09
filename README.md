@@ -4,9 +4,6 @@ phileDisqus
 Embeds Disqus comments to [Phile](http://philecms.github.io/Phile).
 Based on [Pico Disqus by Philipp Schmitt](https://github.com/pschmitt/pico_disqus).
 
-It gives you access to:
-* If on a `/tag/` URL, the `current_tag` variable
-* For every page, `page.meta.tags_array` --- array of tags for the `page`
 
 ## Installation
 
