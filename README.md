@@ -1,3 +1,11 @@
+
+
+**No longer maintained - check [phileDisqus by Philipp Schmitt](https://github.com/pschmitt/phileDisqus).**
+
+----
+
+<br><br><br><br><br>
+
 phileDisqus
 ===========
 
@@ -34,7 +42,9 @@ In your theme add `{{ disqus_comments }}` wherever you want to display the comme
 
 In `plugins/sithdown/disqus/config.php` you must set:
 
-* `$config['disqus_id' => 'sithdown']` - your disqus ID.
+```
+$config['disqus_id' => 'yourdisqusID']` - your disqus ID.
+```
 
 ## License
 
